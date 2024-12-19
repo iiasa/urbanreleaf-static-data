@@ -1,0 +1,65 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Athens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [23.7275, 37.9838]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascais"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-9.4215, 38.6979]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dundee"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-2.9707, 56.4620]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mannheim"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [8.4660, 49.4875]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Riga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1052, 56.9496]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Utrecht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.1214, 52.0907]
+      }
+    }
+  ]
+}
